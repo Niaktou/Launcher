@@ -1,8 +1,8 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Atrium-Launcher",
+    "preductname": "Atrium Launcher",
     "version": "1.2.5",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "description": "Le launcher d'atrium",
     "main": "src/app.js",
     "author": "Luuxis",
     "url": "http://niaktou.lescigales.org/html/",
