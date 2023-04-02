@@ -1,5 +1,5 @@
 /**
- * @author Luuxis
+ * @author Niaktou
  * @license CC-BY-NC 4.0 - https://creativecommons.org/licenses/by-nc/4.0/
  */
 
@@ -22,9 +22,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Je... vie...", "author": "Luuxis" },
-            { "message": "Salut je suis le launcher", "author": "Luuxis" },
-            { "message": "Je suis ton père", "author": "Luuxis" }
+            { "message": "Je... vie...", "author": "Niaktou" },
+            { "message": "Salut je suis le launcher", "author": "Niaktou" },
+            { "message": "Je suis ton père", "author": "Niaktou" }
         ]
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;

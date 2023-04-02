@@ -4,7 +4,7 @@
     "version": "1.2.5",
     "description": "Le launcher d'atrium",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "Niaktou",
     "url": "http://niaktou.lescigales.org/html/",
     "engines": {
         "node": "^18.x.x"
