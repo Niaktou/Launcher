@@ -5,7 +5,7 @@
     "description": "Le launcher d'atrium",
     "main": "src/app.js",
     "author": "Niaktou",
-    "url": "http://niaktou.lescigales.org/html/",
+    "url": "https://rpatriun.000webhostapp.com/html",
     "engines": {
         "node": "^18.x.x"
     },
